@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Tripathybabu
-- 👀 I’m interested in web development and data science.. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Overview
+This portfolio website was built using HTML, CSS, and JavaScript. It serves as a hub for presenting my work, sharing my skills, and offering a way for others to get in touch with me.
 
-<!---
-Tripathybabu/Tripathybabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Features
+- **Project Showcase**: Displays my projects with descriptions, images, and links.
+- **About Me**: Provides information about me, my skills, and my background.
+- **Contact**: Offers a way for visitors to contact me through a contact form.
+- **Responsive Design**: Ensures a seamless experience on various devices and screen sizes.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
